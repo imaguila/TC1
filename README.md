@@ -1,5 +1,7 @@
 # Compilación y ejecución en el laboratorio en línea
 
+https://lab.cs50.io/{owner}/{repo}/{branch}/{path}
+
 ## Etapas del desarrollo de programas
 
 Para resolver un problema utilizando un programa de ordenardor tenemos que pasar por las siguientes etapas
